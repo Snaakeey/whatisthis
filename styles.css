@@ -1,0 +1,40 @@
+body {
+    background: url('https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg') no-repeat center center/cover;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.question-box {
+    background: rgba(255, 255, 255, 0.2); /* Transparent box */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Calligraphy', cursive;
+    font-size: 24px;
+    color: white;
+    width: 50%;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    background-color: pink;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
