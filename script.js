@@ -2,10 +2,11 @@
 
 const questions = [
     "Do you like surprises?",
-    "Will you be my Valentine?",
-    "Do you believe in love at first sight?",
-    "Would you go on a starry night date?",
+    "Did you like intersteller?",
+    "Do you promise to S.T.A.Y. with me for all the promise days?",
+    "Am i not stupid to make you watch this? ?",
     "Are you excited for Valentine's Day?"
+    "So my dear lovely wife, will you be My Valentine?"
 ];
 
 let currentQuestionIndex = 0;
